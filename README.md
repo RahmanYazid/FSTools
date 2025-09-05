@@ -33,8 +33,8 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Flyff-assist-buff.git
-    cd Flyff-assist-buff
+    https://github.com/RahmanYazid/FSTools.git
+    cd Flyff-assist
     ```
 2.  **Install dependencies:**
     ```bash
@@ -47,7 +47,7 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 1.  **Run the application:**
     ```bash
-    python Flyff-Full-Support.py
+    python Flyff-FS.py
     ```
     The app will open with an embedded browser window.
 2.  **Configure**: Use the **controller** to define your desired hotkey sequence.
