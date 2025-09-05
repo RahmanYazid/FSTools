@@ -6,7 +6,7 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Embedded Browser**: Integrates a browser window directly into the application.
 - **Keyboard Automation**: Automates key presses with configurable delays.
@@ -16,7 +16,7 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - **Python 3.10+**
 
@@ -29,7 +29,7 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -43,7 +43,7 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 ---
 
-## ▶ Usage
+## Usage
 
 1.  **Run the application:**
     ```bash
@@ -55,6 +55,6 @@ FStools is a simple desktop application built with **Python + PyQt5**. It's inte
 
 ---
 
-⚠️ **Important Disclaimer**
+**Important Disclaimer**
 
 This project is for **educational and personal use only**. It serves as a generic demonstration of keyboard automation and browser embedding. The author is not affiliated with any game or service, and this tool should not be used to violate any software's Terms of Service (ToS).
